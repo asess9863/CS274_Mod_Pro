@@ -19,13 +19,13 @@ Technology is an extension of us, it's often how we spend our time and interface
 Your attention is your freedom.
 The Bourgeoisie sold us exploitation of our attention as convenience, that's how we got the modern internet. We've been torn apart and weakened by it.
 
-    **Adam Sessions:**
+**Adam Sessions:**
     I agree that the rich and powerful are attacking and exploiting the people by forcing us to be dependent on their software. That is a great point towards your argument.
 
 
 There is a brazen, perverse business culture permeating silicon valley; to soothe trap and coerce you, to make you rely addicted and dependent on there software. The oligarchs sell the culture as natural product of capitalism to aspiring innovators to use and crush them into shareholder profit. Elites make proprietary software to trap you in an ecosystem and monopolize. The dialectical irony of late-stage capitalism, as a monopolistic plutocracy, makes me sick.
 
-    **Adam Sessions**
+**Adam Sessions**
     Although I agree that the monopoly that certain companies hold over the american people in specific is harmful because it allows them to me idle in their innovations,but it might be worth mentioning that it is a lack of competition in the market that allows them to create a terrible product and still profit off of it, in my opinion the only way to force these companies to innovate is to light a metaphorical fire under their asses.
 
 Then, once software is made, distributing copies has no manufacturing or delivery price, we have a post-scarcity simulacrum, yet half of it's built by companies that sell there software.
@@ -53,7 +53,8 @@ take back your attention and repurpose it the 4 following tenets
  - **Production**. Find some change that you can create/contribute to that you want for everyone that you find fulfilling creating/contributing too.
 ---
  - If some software or platform collects data on you, is closed source, costs money, or works of some add revenue model, then throw it out of your life unless strictly necessary. (No social media isn't necessary.)
-    **Adam Sessions:**
+
+**Adam Sessions:**
     I agree that social media has harmful effects on your productivity and there are plenty of studies that prove that, but it might be worth noting that it isnt necessary to cut it out of your life entirly, rather to limit your use and limit what you post to what you would tell a large croud. As well as most of the data harvesting that goes on in social media platforms is to give you ads intending to sell you a product. As long as you have control over your spending habits I can see no problem with the company knowing what kind of cell phone you own or other non-personal info.
 
  - Use software that is made for you and not for a company to profit off you.
