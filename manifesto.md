@@ -27,7 +27,7 @@ There is a brazen, perverse business culture permeating silicon valley; to sooth
 
 **Adam Sessions:**
 
-    Although I agree that the monopoly that certain companies hold over the american people in specific is harmful because it allows them to me idle in their innovations,but it might be worth mentioning that it is a lack of competition in the market that allows them to create a terrible product and still profit off of it, in my opinion the only way to force these companies to innovate is to light a metaphorical fire under their asses.
+Although I agree that the monopoly that certain companies hold over the american people in specific is harmful because it allows them to me idle in their innovations,but it might be worth mentioning that it is a lack of competition in the market that allows them to create a terrible product and still profit off of it, in my opinion the only way to force these companies to innovate is to light a metaphorical fire under their asses.
 
 Then, once software is made, distributing copies has no manufacturing or delivery price, we have a post-scarcity simulacrum, yet half of it's built by companies that sell there software.
 Selling still works without scarcity here. When something doesn't exist yet, demand for it isn't rewarded with free access, cause you can't access what doesn't exist yet. And further still software can be made hard for the purchasers to distribute, this is because the user won't fully own the product, just a license to use it, often done so with an account connecting to a server meaning clients can even use the product without internet.
@@ -57,7 +57,7 @@ take back your attention and repurpose it the 4 following tenets
 
 **Adam Sessions:**
 
-    I agree that social media has harmful effects on your productivity and there are plenty of studies that prove that, but it might be worth noting that it isnt necessary to cut it out of your life entirly, rather to limit your use and limit what you post to what you would tell a large croud. As well as most of the data harvesting that goes on in social media platforms is to give you ads intending to sell you a product. As long as you have control over your spending habits I can see no problem with the company knowing what kind of cell phone you own or other non-personal info.
+I agree that social media has harmful effects on your productivity and there are plenty of studies that prove that, but it might be worth noting that it isnt necessary to cut it out of your life entirly, rather to limit your use and limit what you post to what you would tell a large croud. As well as most of the data harvesting that goes on in social media platforms is to give you ads intending to sell you a product. As long as you have control over your spending habits I can see no problem with the company knowing what kind of cell phone you own or other non-personal info.
 
  - Use software that is made for you and not for a company to profit off you.
  - Make a website, even if you don't know how to create one, just go to neocities.org or nekoweb.org and you can upload any file you want to be public there, and send people links to the files.
