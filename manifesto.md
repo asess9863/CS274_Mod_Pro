@@ -2,6 +2,8 @@ CS274: Module Project 1 **FIRST DRAFT** <br>
 Written by Willem J. Van Zwol, Last edited 2025.02.23 <br>
 Origin: https://gitlab.com/WillemDoesGit/cs274
 
+Comments on:  https://github.com/asess9863/CS274_Mod_Pro/blob/main/manifesto.md
+
 ```pretext
 This text is provided AS IS with ABSOLUTELY NO WARRANTY.
 It is freely available, No conditions, restrictions, or obligations apply to its use, modification, or redistribution.
